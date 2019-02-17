@@ -43,6 +43,8 @@
     "elkjs": "global:ELK"
   },
   "browserify": {
-    "transform": [ "browserify-shim" ]
+    "transform": [
+      "browserify-shim"
+    ]
   }
 }
